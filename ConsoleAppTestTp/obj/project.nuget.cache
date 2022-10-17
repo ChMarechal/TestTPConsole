@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3JJGZCl0+XYnDDGGzrMKMHIhuQAm0BHf6hz7dSizYTuZ6JI/F8PmVHwuq9fNpkVxHwSKgNZTsdFQVPpFgB7fAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmarechal\\source\\repos\\ConsoleAppTestTp\\ConsoleAppTestTp\\ConsoleAppTestTp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmarechal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
